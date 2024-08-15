@@ -7,7 +7,7 @@
 
 ## Phase 2: 15/8/2024 - 17/8/2024
 - [x] Complete decision tree
-- [ ] Evaluate decision tree classifier
+- [x] Evaluate decision tree classifier
 
 ## Phase 3: 18/8/2024 - 21/8/2024
 - [ ] Consider the depth and accuracy of decision tree
