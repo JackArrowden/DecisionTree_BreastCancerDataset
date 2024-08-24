@@ -10,8 +10,8 @@
 - [x] Evaluate decision tree classifier
 
 ## Phase 3: 18/8/2024 - 21/8/2024
-- [ ] Consider the depth and accuracy of decision tree
-- [ ] Reconstruct the .ipynb file
+- [x] Consider the depth and accuracy of decision tree
+- [x] Reconstruct the .ipynb file
 
 ## Phase 4: 22/8/2024 - 25/8/2024
 - [ ] Report
