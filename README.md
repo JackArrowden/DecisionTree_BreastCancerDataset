@@ -1,0 +1,2 @@
+# LAB 2 - DECISION TREE - 22CLC06 - HCMUS
+This project utilizes the breast cancer dataset from the website [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/) to perform tasks related to decision trees, including data splitting, model training, evaluation of the decision tree based on confusion matrices and classification reports, and assessment of the tree's accuracy under various depth limits.

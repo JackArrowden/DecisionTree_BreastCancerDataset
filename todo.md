@@ -14,4 +14,4 @@
 - [x] Reconstruct the .ipynb file
 
 ## Phase 4: 22/8/2024 - 25/8/2024
-- [ ] Report
+- [x] Report
